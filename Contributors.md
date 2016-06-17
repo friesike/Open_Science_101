@@ -18,4 +18,4 @@ Name, affiliation, GitHub handle (optional)
 * Mario Antonioletti, EPCC/SSI, University of Edinburgh, @marioa
 * Patricia Herterich, University of Birmingham, @pherterich
 * Selina Aragon, EPCC/SSI, University of Edinburgh, @selina-aragon
-* Sascha Fiesike, University of Würzburg, @friesike
+* Sascha Friesike, University of Würzburg, @friesike
